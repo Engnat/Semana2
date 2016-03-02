@@ -1,0 +1,28 @@
+html{
+		font-family: Verdana, Geneva, sans-serif;
+}
+
+
+#Contenido{
+	margin: 0 auto;
+	width: 900px;
+}
+section{
+
+	display: none;
+}
+
+section > h1{
+
+		text-align: center;
+}
+
+textarea{
+	width: 80%;
+    margin: 10px 84px;
+    height: auto;
+    overflow: hidden;
+}
+
+
+
