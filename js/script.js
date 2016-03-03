@@ -1,8 +1,11 @@
 $(document).ready(function(){
     
-    $("section").fadeIn(2000);
+    $("section").fadeIn(2000, function(){
 
-    $("textarea").focus();
+    	 $("textarea").focus();
+    });
+
+   
     
 });
 
