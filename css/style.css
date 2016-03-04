@@ -24,5 +24,22 @@ textarea{
     overflow: hidden;
 }
 
+button{
+	margin: 20px 394px
+}
 
+#Album{
+	
+}
+
+article{
+	width: 37%;
+    margin: auto;
+    text-align: -webkit-center;
+}
+
+img{
+	width: 30%;
+    padding: 10px 0;
+}
 
