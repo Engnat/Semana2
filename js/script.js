@@ -6,11 +6,11 @@ $(document).ready(function(){
     }); 
 
 	$("button").click(function(){
-		llamarada();
+		llamada();
 	});    
 });
 
-function llamarada(){
+function llamada(){
 	$.ajax({
 	    url: "https://api.spotify.com/v1/search",
 	    data: {
